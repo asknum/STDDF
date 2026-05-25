@@ -61,9 +61,10 @@ python test.py --config/gzcd_test.json
 |------|------|
 | `--config` | 配置文件路径 |
 ### 实验结果
-![图7](https://github.com/user-attachments/assets/8b0dfbdf-18f0-451c-9bd2-9520aa1fc4d1)  
-![图8](https://github.com/user-attachments/assets/ade6bf44-3709-4984-ab05-f704cafd6376)
-![图9](https://github.com/user-attachments/assets/4ffac8ce-89e9-4467-9f76-101d696eb8f2)
+<img width="1457" height="662" alt="7" src="https://github.com/user-attachments/assets/1fd9a085-e063-48ab-9d3e-44c6cbe0c3da" />
+<img width="1459" height="664" alt="6" src="https://github.com/user-attachments/assets/db6e9282-67b6-401c-900c-79b3209687cd" />
+<img width="1456" height="662" alt="5" src="https://github.com/user-attachments/assets/1b71c0ec-929e-42bf-a534-32a3d3080bfe" />
+
 
 
 ---
