@@ -1,0 +1,14 @@
+{
+    "model": "STDDF_MiT",
+    "backbone": "MiT-b1",
+    "params_count_millions": 27.17074,
+    "flops_giga": 4.855247488,
+    "input_shape": [
+        3,
+        256,
+        256
+    ],
+    "batch_size": 8,
+    "dataset": "LEVIR",
+    "pretrained": "None"
+}

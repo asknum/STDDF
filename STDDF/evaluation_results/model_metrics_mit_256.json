@@ -1,0 +1,20 @@
+{
+    "model": "STDDF_MiT",
+    "params_count_millions": 27.17178,
+    "flops_giga": 4.851483392,
+    "input_shape": [
+        3,
+        256,
+        256
+    ],
+    "inference_time": {
+        "avg_time_seconds": 0.05792932033538818,
+        "avg_time_ms": 57.929320335388184,
+        "fps": 17.262415547263284,
+        "num_iterations": 100
+    },
+    "memory": {
+        "max_memory_allocated_gb": 0.2385396957397461
+    },
+    "device": "cuda:0"
+}
